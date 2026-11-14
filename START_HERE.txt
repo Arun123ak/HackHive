@@ -1,0 +1,3 @@
+Open this folder in VS Code.
+Create venv, pip install -r requirements.txt, then run: streamlit run app.py
+See README.md for detailed instructions.

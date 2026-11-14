@@ -1,0 +1,8 @@
+portfolio_id,company,symbol,shares,allocation_pct
+DEMO-01,Aster Devices,ASTR,20,25
+DEMO-01,Northstar Cloud,NSCL,15,25
+DEMO-01,VoltForge Mobility,VFM,12,25
+DEMO-01,QuantaSilica,QTSL,10,25
+DEMO-02,Aster Devices,ASTR,10,40
+DEMO-02,HarborCart,HBCT,18,35
+DEMO-02,Northstar Cloud,NSCL,8,25
